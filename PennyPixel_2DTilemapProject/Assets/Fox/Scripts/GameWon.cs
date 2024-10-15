@@ -1,4 +1,11 @@
-﻿using System.Collections;
+﻿/*
+* Kayden Miller
+* GameWon
+* Assignment 5A
+* Checks to see if players met win condition
+*/
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;

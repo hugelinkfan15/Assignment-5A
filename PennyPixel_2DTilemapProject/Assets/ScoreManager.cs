@@ -1,4 +1,12 @@
-﻿using System.Collections;
+﻿/*
+* Kayden Miller
+* ScoreManager
+* Assignment 5A
+* Used to manage score and win bool
+*/
+
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;

@@ -1,4 +1,11 @@
-﻿using System.Collections;
+﻿/*
+* Kayden Miller
+* GetGem
+* Assignment 5A
+* Increments score on collection
+*/
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
